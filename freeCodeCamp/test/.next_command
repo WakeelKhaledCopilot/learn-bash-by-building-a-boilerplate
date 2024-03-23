@@ -173,3 +173,6 @@ cd assets/
 mkdir images
 cd images/
 touch background.jpg
+fwd
+pwd
+cd ../../../
