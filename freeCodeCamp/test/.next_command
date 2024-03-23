@@ -122,3 +122,4 @@ rm background.jpg
 clear
 ls --color=auto
 cp header.png images
+cp footer.jpeg images/
