@@ -89,3 +89,11 @@ touch .gitignore
 ls --color=auto
 ls --color=auto --help
 ls --color=auto -a
+cd ../
+cd website/
+cd ./
+clear
+cd ..
+cd website/
+cd.
+cd .
