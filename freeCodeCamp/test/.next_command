@@ -56,3 +56,5 @@ cd src/
 pwd
 ls --color=auto
 more index.js
+clear
+cd ../
