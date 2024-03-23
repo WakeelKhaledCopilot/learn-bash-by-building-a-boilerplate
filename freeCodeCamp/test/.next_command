@@ -59,3 +59,11 @@ more index.js
 clear
 cd ../
 cd ../
+cd ../project
+cd ../
+ll
+ls --color=auto
+cd ../
+cd freeCodeCamp/node_modules/
+clear
+cd ../../
