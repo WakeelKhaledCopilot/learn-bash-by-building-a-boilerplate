@@ -25,3 +25,4 @@ echo hello terminal
 pwd
 lls
 ls --color=auto
+cd freeCodeCamp/
