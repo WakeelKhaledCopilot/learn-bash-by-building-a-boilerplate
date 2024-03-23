@@ -208,3 +208,6 @@ cd ../
 rmdir images/
 clear
 ls --color=auto
+mkdir icons
+rmdir icons/
+mkdir client/assets/icons
