@@ -241,3 +241,4 @@ rmdir --help
 rm --help
 clear
 rm -r fonts/
+ls --color=auto
