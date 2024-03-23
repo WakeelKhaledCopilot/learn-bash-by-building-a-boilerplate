@@ -242,3 +242,4 @@ rm --help
 clear
 rm -r fonts/
 ls --color=auto
+touch package.json
