@@ -69,3 +69,4 @@ clear
 cd ../../
 ls --color=auto
 clear
+mkdir website
