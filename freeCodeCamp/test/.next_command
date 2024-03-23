@@ -200,3 +200,6 @@ find
 clear
 pwd
 rmdir images/
+cd images/
+ls --color=auto
+rm background.jpg
