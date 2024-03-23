@@ -259,3 +259,4 @@ more README.md
 clear
 echo for the freeCodeCamp vash lessons >> README.md
 echo for the freeCodeCamp bash lessons >> README.md
+more README.md
