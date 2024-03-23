@@ -68,3 +68,4 @@ cd freeCodeCamp/node_modules/
 clear
 cd ../../
 ls --color=auto
+clear
