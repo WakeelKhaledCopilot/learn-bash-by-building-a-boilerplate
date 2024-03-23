@@ -263,3 +263,4 @@ more README.md
 clear
 cd ../
 ls --color=auto
+mv website/ website-boilerplate
