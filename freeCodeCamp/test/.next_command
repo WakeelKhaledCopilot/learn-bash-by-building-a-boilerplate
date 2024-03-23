@@ -185,3 +185,5 @@ cd ../.././
 cd ../
 cd images/
 ls --color=auto
+clear
+cd ../
