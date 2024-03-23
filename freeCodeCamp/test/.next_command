@@ -40,3 +40,5 @@ cd ../
 ls --color=auto
 more package.json
 clear
+ll
+ls --color=auto
