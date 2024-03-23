@@ -97,3 +97,5 @@ cd ..
 cd website/
 cd.
 cd .
+clear
+touch background.jpg
