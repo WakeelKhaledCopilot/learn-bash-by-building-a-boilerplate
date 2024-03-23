@@ -85,3 +85,4 @@ ls --color=auto
 rm style.css
 clear
 touch index.js
+touch .gitignore
