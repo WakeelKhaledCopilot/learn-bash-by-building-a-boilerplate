@@ -158,3 +158,6 @@ find
 clear
 find client/
 find --help
+clear
+find index.html
+find -name index.html
