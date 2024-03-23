@@ -249,3 +249,5 @@ ls --color=auto
 echo Yay!
 echo "I finished the boilerplate!"
 echo I finished the boilerplate!
+clear
+echo one more thing...
