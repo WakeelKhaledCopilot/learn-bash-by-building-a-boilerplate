@@ -181,3 +181,7 @@ ls --color=auto
 mv header.png ../client/assets/images/
 cd ../client/assets/images/
 mv header.png ../../../
+cd ../.././
+cd ../
+cd images/
+ls --color=auto
