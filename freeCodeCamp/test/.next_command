@@ -32,3 +32,4 @@ print working directory
 print freeCodeCamp
 pwd
 ls --color=auto
+cd test/
