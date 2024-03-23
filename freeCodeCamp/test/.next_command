@@ -177,3 +177,4 @@ fwd
 pwd
 cd ../../../
 cd images/
+ls --color=auto
