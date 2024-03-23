@@ -99,3 +99,4 @@ cd.
 cd .
 clear
 touch background.jpg
+touch header.png
