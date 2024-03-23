@@ -239,3 +239,5 @@ find
 rmdir fonts/
 rmdir --help
 rm --help
+clear
+rm -r fonts/
