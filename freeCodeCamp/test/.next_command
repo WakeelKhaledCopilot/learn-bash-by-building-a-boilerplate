@@ -128,3 +128,4 @@ ls --color=auto
 cd ../
 clear
 ls --color=auto
+rm header.png
