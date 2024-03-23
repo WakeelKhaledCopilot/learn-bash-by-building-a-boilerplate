@@ -203,3 +203,6 @@ rmdir images/
 cd images/
 ls --color=auto
 rm background.jpg
+rmdir images/
+cd ../
+rmdir images/
