@@ -213,3 +213,12 @@ rmdir icons/
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons/
 find
+clear
+find -name CodeAlly
+cd client/assets/icons/
+ls --color=auto
+cd ../../
+cd ../
+clear
+ls --color=auto
+mv CodeRoad.svg client/assets/icons/
