@@ -278,3 +278,4 @@ find website-boilerplate/
 clear
 goodbye terminal
 echo goodbye terminal
+exit
